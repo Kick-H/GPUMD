@@ -24,6 +24,8 @@
 
     Ref:
         dpdata: https://github.com/deepmodeling/dpdata
+    An example:
+        https://github.com/Kick-H/nep_deepmd_mutual_conversion
     Run:
         python nep2xyz.py deepmd
     Author:
