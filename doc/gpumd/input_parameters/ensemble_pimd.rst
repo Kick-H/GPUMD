@@ -42,4 +42,4 @@ It can be used as follows::
 
     ensemble trpmd <num_beads> 
 
-This is similar to :term:`RPMD`, but the Langevin thermosat is applied to the internal modes.
+This is similar to :term:`RPMD`, but the Langevin thermostat is applied to the internal modes.
